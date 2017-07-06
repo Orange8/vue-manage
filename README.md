@@ -5,6 +5,8 @@
 ```
 git clone https://github.com/Orange8/vue-manage.git
 
+cd vue-manage
+
 npm install
 
 npm start
