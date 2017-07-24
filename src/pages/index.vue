@@ -11,9 +11,9 @@
 </template>
 
 <script>
-  import header from './include/header';
-  import sidebar from './include/sidebar';
-  import main from './include/main';
+  import header from '../components/header';
+  import sidebar from '../components/sidebar';
+  import main from '../components/main';
 
   export default {
     components: {

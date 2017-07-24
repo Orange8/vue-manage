@@ -7,8 +7,9 @@
 	  </el-col>
 	  <el-col align="right">
 	  	<span class="greet">大橘子 欢迎您！</span>
-	  	<router-link to="/login" icon="circle-close">退出</router-link>
-		<el-button class="exit-btn" type="text" icon="circle-close">退出</el-button>
+	  	<router-link to="/login" icon="circle-close">
+	  		<el-button class="exit-btn" type="text" icon="circle-close">退出</el-button>
+	  	</router-link>
 	  </el-col>
 	</el-row>
 </template>

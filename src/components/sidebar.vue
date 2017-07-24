@@ -2,7 +2,7 @@
 <div class="sidebar">
 	<el-row class="tac">
 		<el-col class="logo-wrapper" :md="24">
-			<img class="logo" src="../../assets/logo.svg" alt="广告位招租">
+			<img class="logo" src="../assets/logo.svg" alt="广告位招租">
 		</el-col>
 		<el-col :span="24">
 			<el-menu default-active="2" theme="dark" class="el-menu-vertical-demo" @open="handleOpen" @close="handleClose">
