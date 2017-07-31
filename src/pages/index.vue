@@ -11,18 +11,19 @@
 </template>
 
 <script>
-  import header from '../components/header';
-  import sidebar from '../components/sidebar';
-  import main from '../components/main';
+import header from '../components/header';
+import sidebar from '../components/sidebar';
+import main from '../components/main';
 
-  export default {
-    components: {
-      'v-header': header,
-      'v-sidebar': sidebar,
-      'v-main': main
-    }
-  };
+export default {
+  components: {
+    'v-header': header,
+    'v-sidebar': sidebar,
+    'v-main': main
+  }
+};
 </script>
 
 <style lang="scss">
+
 </style>
